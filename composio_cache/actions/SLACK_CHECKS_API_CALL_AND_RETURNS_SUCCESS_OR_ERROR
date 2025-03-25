@@ -1,0 +1,17 @@
+{
+  "name": "SLACK_CHECKS_API_CALL_AND_RETURNS_SUCCESS_OR_ERROR",
+  "app": "slack",
+  "tags": [
+    "api"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

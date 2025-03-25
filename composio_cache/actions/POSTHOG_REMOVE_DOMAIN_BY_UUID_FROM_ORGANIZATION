@@ -1,0 +1,18 @@
+{
+  "name": "POSTHOG_REMOVE_DOMAIN_BY_UUID_FROM_ORGANIZATION",
+  "app": "posthog",
+  "tags": [
+    "organizations",
+    "domains"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

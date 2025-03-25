@@ -1,0 +1,17 @@
+{
+  "name": "LISTENNOTES_FIND_INDIVIDUAL_EPISODES_BY_SEARCHING_FOR_THEIR_TITLES",
+  "app": "listennotes",
+  "tags": [
+    "Search API"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

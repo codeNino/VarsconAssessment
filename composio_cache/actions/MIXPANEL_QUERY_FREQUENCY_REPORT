@@ -1,0 +1,18 @@
+{
+  "name": "MIXPANEL_QUERY_FREQUENCY_REPORT",
+  "app": "mixpanel",
+  "tags": [
+    "analytics",
+    "frequency"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

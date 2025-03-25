@@ -1,0 +1,17 @@
+{
+  "name": "SLACKBOT_GET_CURRENT_TEAM_S_ACCESS_LOGS",
+  "app": "slackbot",
+  "tags": [
+    "team"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "NEON_CREATE_COMPUTE_ENDPOINT",
+  "app": "neon",
+  "tags": [
+    "Endpoint"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

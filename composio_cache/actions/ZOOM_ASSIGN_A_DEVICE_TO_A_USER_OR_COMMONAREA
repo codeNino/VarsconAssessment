@@ -1,0 +1,17 @@
+{
+  "name": "ZOOM_ASSIGN_A_DEVICE_TO_A_USER_OR_COMMONAREA",
+  "app": "zoom",
+  "tags": [
+    "Devices"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

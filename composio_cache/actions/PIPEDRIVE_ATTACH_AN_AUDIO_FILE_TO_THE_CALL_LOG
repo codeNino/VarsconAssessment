@@ -1,0 +1,17 @@
+{
+  "name": "PIPEDRIVE_ATTACH_AN_AUDIO_FILE_TO_THE_CALL_LOG",
+  "app": "pipedrive",
+  "tags": [
+    "CallLogs"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

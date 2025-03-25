@@ -1,0 +1,17 @@
+{
+  "name": "BOX_LIST_ALLOWED_COLLABORATION_DOMAINS",
+  "app": "box",
+  "tags": [
+    "Domain restrictions for collaborations"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

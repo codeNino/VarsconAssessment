@@ -1,0 +1,17 @@
+{
+  "name": "GONG_LIST_OF_CALLS_IN_A_SPECIFIC_FOLDER_V2_LIBRARY_FOLDER_CONTENT",
+  "app": "gong",
+  "tags": [
+    "Library"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

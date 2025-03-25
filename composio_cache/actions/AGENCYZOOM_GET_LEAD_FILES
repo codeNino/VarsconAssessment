@@ -1,0 +1,17 @@
+{
+  "name": "AGENCYZOOM_GET_LEAD_FILES",
+  "app": "agencyzoom",
+  "tags": [
+    "Lead Management"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

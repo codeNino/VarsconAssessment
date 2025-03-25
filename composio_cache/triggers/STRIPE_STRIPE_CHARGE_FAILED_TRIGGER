@@ -1,0 +1,4 @@
+{
+  "name": "STRIPE_STRIPE_CHARGE_FAILED_TRIGGER",
+  "app": "stripe"
+}

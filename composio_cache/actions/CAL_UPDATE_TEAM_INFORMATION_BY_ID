@@ -1,0 +1,17 @@
+{
+  "name": "CAL_UPDATE_TEAM_INFORMATION_BY_ID",
+  "app": "cal",
+  "tags": [
+    "Orgs / Teams"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

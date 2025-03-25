@@ -1,0 +1,17 @@
+{
+  "name": "GONG_RETRIEVE_DATA_PRIVACY_INFO_FOR_EMAIL_ADDRESS",
+  "app": "gong",
+  "tags": [
+    "Data Privacy"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

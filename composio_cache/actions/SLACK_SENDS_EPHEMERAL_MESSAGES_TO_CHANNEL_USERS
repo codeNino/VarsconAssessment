@@ -1,0 +1,17 @@
+{
+  "name": "SLACK_SENDS_EPHEMERAL_MESSAGES_TO_CHANNEL_USERS",
+  "app": "slack",
+  "tags": [
+    "chat"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

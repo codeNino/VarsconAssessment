@@ -1,0 +1,18 @@
+{
+  "name": "HUBSPOT_GET_MARKETING_EMAILS",
+  "app": "hubspot",
+  "tags": [
+    "Marketing",
+    "Emails"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

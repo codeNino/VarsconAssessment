@@ -1,0 +1,17 @@
+{
+  "name": "POSTHOG_RETRIEVE_AND_DELETE_PROJECT_PERSON_TRENDS",
+  "app": "posthog",
+  "tags": [
+    "persons"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

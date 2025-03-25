@@ -1,0 +1,15 @@
+{
+  "name": "SLACK_APPS_PERMISSIONS_SCOPES_GET_LIST",
+  "app": "slack",
+  "tags": [],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": "SLACK_LIST_APP_PERMISSIONS_SCOPES_ON_A_TEAM",
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

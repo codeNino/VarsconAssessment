@@ -1,0 +1,18 @@
+{
+  "name": "SLACK_ADD_DEFAULT_CHANNELS_TO_IDP_GROUP",
+  "app": "slack",
+  "tags": [
+    "admin.usergroups",
+    "admin"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

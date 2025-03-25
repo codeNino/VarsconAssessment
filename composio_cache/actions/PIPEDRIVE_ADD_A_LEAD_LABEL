@@ -1,0 +1,17 @@
+{
+  "name": "PIPEDRIVE_ADD_A_LEAD_LABEL",
+  "app": "pipedrive",
+  "tags": [
+    "LeadLabels"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

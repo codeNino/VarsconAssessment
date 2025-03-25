@@ -1,0 +1,17 @@
+{
+  "name": "CANVA_LIST_FOLDER_ITEMS_BY_TYPE_WITH_SORTING",
+  "app": "canva",
+  "tags": [
+    "folder"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

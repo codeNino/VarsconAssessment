@@ -1,0 +1,17 @@
+{
+  "name": "JIRA_APPEND_MAPPINGS_TO_ISSUE_TYPE_SCREEN_SCHEME",
+  "app": "jira",
+  "tags": [
+    "Issue type screen schemes"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

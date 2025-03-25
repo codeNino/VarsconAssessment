@@ -1,0 +1,15 @@
+{
+  "name": "CLICKUP_AUTHORIZATION_VIEW_ACCOUNT_DETAILS",
+  "app": "clickup",
+  "tags": [],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": "CLICKUP_GET_AUTHORIZED_USER",
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

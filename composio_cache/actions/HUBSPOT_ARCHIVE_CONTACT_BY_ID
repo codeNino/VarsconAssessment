@@ -1,0 +1,17 @@
+{
+  "name": "HUBSPOT_ARCHIVE_CONTACT_BY_ID",
+  "app": "hubspot",
+  "tags": [
+    "Basic"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

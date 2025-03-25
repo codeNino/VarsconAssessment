@@ -1,0 +1,19 @@
+{
+  "name": "EMBED_TOOL_CREATE_IMAGE_VECTOR_STORE",
+  "app": "embed_tool",
+  "tags": [
+    "vectorstore",
+    "image",
+    "indexing"
+  ],
+  "no_auth": true,
+  "is_local": true,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

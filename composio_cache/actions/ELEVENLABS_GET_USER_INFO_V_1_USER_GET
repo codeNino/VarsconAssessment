@@ -1,0 +1,15 @@
+{
+  "name": "ELEVENLABS_GET_USER_INFO_V_1_USER_GET",
+  "app": "elevenlabs",
+  "tags": [],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": "ELEVENLABS_GET_USER_INFO",
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

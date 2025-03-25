@@ -1,0 +1,17 @@
+{
+  "name": "GITHUB_GET_DEFAULT_ATTRIBUTES_FOR_A_CODESPACE",
+  "app": "github",
+  "tags": [
+    "codespaces"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

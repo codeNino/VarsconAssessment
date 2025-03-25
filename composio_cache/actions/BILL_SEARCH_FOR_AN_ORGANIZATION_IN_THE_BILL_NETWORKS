@@ -1,0 +1,17 @@
+{
+  "name": "BILL_SEARCH_FOR_AN_ORGANIZATION_IN_THE_BILL_NETWORKS",
+  "app": "bill",
+  "tags": [
+    "network"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

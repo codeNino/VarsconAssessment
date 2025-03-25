@@ -1,0 +1,17 @@
+{
+  "name": "CANVA_ACCESS_USER_SPECIFIC_BRAND_TEMPLATES_LIST",
+  "app": "canva",
+  "tags": [
+    "brand_template"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

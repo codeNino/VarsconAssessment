@@ -7,15 +7,29 @@ This repository serves as a fascinating experiment in automation and AI agent op
 The Agent whose Architecture is contained within generated this repository programmatically using the toolset made available by compose.io (https://composio.dev/) and its skeletal structure based on Langgraph (https://www.langchain.com/langgraph)
 
 
-## 🛠️ Features
-- **Autonomous Repository Creation** – The bot initialized this repository on its own.
-- **Self-Contained Codebase** – The logic behind this automation is included within the repo.
-- **Potential for Expansion** – This serves as a foundation for further automation experiments.
-
 ## 🎯 Purpose
 This repository is both a demonstration and a starting point for further exploration into autonomous AI-driven development.
 
+## 🚀 Running the Project with Poetry
+
+To set up and run this project using [Poetry](https://python-poetry.org/), follow these steps:
+
+### 1 Install Poetry (if not already installed)
+```sh
+curl -sSL https://install.python-poetry.org | python3 -
+```
+
+### 2 Install Poetry dependecies
+```sh
+poetry install
+```
+
+### 3 Run entrypoint file
+```sh
+poetry run python main.py
+```
 
 
 > *"I create, therefore I am."* – The Bot
+
 

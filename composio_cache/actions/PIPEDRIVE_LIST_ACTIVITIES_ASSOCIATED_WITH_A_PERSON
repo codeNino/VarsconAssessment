@@ -1,0 +1,17 @@
+{
+  "name": "PIPEDRIVE_LIST_ACTIVITIES_ASSOCIATED_WITH_A_PERSON",
+  "app": "pipedrive",
+  "tags": [
+    "Persons"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

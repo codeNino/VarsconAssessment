@@ -1,0 +1,17 @@
+{
+  "name": "PEOPLEDATALABS_CLEAN_LOCATION_DATA",
+  "app": "peopledatalabs",
+  "tags": [
+    "important"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

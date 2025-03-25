@@ -1,0 +1,17 @@
+{
+  "name": "BREVO_SETS_AGENT_S_STATUS_TO_ONLINE_FOR_2_3_MINUTES",
+  "app": "brevo",
+  "tags": [
+    "Conversations"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

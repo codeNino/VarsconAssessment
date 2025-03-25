@@ -1,0 +1,4 @@
+{
+  "name": "GITHUB_PULL_REQUEST_EVENT",
+  "app": "github"
+}

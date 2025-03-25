@@ -1,0 +1,17 @@
+{
+  "name": "LISTENNOTES_FETCH_A_PLAYLIST_S_INFO_AND_ITEMS_I_E_EPISODES_OR_PODCASTS",
+  "app": "listennotes",
+  "tags": [
+    "Playlist API"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

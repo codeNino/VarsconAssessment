@@ -1,0 +1,4 @@
+{
+  "name": "STRIPE_STRIPE_PAYMENT_FAILED_TRIGGER",
+  "app": "stripe"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "POSTHOG_PARTIAL_UPDATE_OF_PROJECT_NOTEBOOK",
+  "app": "posthog",
+  "tags": [
+    "notebooks"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

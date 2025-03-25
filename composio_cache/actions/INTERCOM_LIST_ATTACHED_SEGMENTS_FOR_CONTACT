@@ -1,0 +1,18 @@
+{
+  "name": "INTERCOM_LIST_ATTACHED_SEGMENTS_FOR_CONTACT",
+  "app": "intercom",
+  "tags": [
+    "Contacts",
+    "Segments"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "GITHUB_LIST_INSTANCES_OF_A_CODE_SCANNING_ALERT",
+  "app": "github",
+  "tags": [
+    "code-scanning"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

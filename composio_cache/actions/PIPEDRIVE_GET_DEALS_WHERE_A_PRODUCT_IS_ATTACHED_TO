@@ -1,0 +1,17 @@
+{
+  "name": "PIPEDRIVE_GET_DEALS_WHERE_A_PRODUCT_IS_ATTACHED_TO",
+  "app": "pipedrive",
+  "tags": [
+    "Products"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

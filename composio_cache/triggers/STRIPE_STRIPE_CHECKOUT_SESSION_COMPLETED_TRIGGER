@@ -1,0 +1,4 @@
+{
+  "name": "STRIPE_STRIPE_CHECKOUT_SESSION_COMPLETED_TRIGGER",
+  "app": "stripe"
+}

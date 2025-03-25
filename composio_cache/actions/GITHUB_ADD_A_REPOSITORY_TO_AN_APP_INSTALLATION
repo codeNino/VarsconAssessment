@@ -1,0 +1,17 @@
+{
+  "name": "GITHUB_ADD_A_REPOSITORY_TO_AN_APP_INSTALLATION",
+  "app": "github",
+  "tags": [
+    "apps"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

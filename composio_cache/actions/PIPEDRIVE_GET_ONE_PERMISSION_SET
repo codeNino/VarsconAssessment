@@ -1,0 +1,17 @@
+{
+  "name": "PIPEDRIVE_GET_ONE_PERMISSION_SET",
+  "app": "pipedrive",
+  "tags": [
+    "PermissionSets"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

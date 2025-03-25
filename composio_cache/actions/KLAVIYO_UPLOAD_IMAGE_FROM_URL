@@ -1,0 +1,17 @@
+{
+  "name": "KLAVIYO_UPLOAD_IMAGE_FROM_URL",
+  "app": "klaviyo",
+  "tags": [
+    "Images"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

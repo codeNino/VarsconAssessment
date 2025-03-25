@@ -1,0 +1,17 @@
+{
+  "name": "BREVO_CHECK_ADMIN_USER_PERMISSIONS",
+  "app": "brevo",
+  "tags": [
+    "Master account"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

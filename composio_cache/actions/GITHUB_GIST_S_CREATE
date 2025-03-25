@@ -1,0 +1,15 @@
+{
+  "name": "GITHUB_GIST_S_CREATE",
+  "app": "github",
+  "tags": [],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": "GITHUB_CREATE_A_GIST",
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

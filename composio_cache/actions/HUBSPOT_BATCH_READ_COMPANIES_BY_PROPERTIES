@@ -1,0 +1,17 @@
+{
+  "name": "HUBSPOT_BATCH_READ_COMPANIES_BY_PROPERTIES",
+  "app": "hubspot",
+  "tags": [
+    "Batch"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

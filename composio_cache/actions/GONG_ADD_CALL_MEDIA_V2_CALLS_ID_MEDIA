@@ -1,0 +1,17 @@
+{
+  "name": "GONG_ADD_CALL_MEDIA_V2_CALLS_ID_MEDIA",
+  "app": "gong",
+  "tags": [
+    "Calls"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

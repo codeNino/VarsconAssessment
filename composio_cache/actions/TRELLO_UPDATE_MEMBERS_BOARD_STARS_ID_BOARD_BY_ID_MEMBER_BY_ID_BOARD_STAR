@@ -1,0 +1,17 @@
+{
+  "name": "TRELLO_UPDATE_MEMBERS_BOARD_STARS_ID_BOARD_BY_ID_MEMBER_BY_ID_BOARD_STAR",
+  "app": "trello",
+  "tags": [
+    "member"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

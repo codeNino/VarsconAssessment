@@ -1,0 +1,17 @@
+{
+  "name": "AMPLITUDE_GET_DELETION_REQUESTS",
+  "app": "amplitude",
+  "tags": [
+    "User Privacy API"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

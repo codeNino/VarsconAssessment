@@ -1,0 +1,17 @@
+{
+  "name": "BITBUCKET_LIST_EXPLICIT_GROUP_PERMISSIONS_FOR_A_PROJECT",
+  "app": "bitbucket",
+  "tags": [
+    "Projects"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

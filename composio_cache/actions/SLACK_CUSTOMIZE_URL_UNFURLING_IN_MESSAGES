@@ -1,0 +1,17 @@
+{
+  "name": "SLACK_CUSTOMIZE_URL_UNFURLING_IN_MESSAGES",
+  "app": "slack",
+  "tags": [
+    "chat"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "HUBSPOT_UPDATE_TOKEN_ON_EVENT_TEMPLATE",
+  "app": "hubspot",
+  "tags": [
+    "Tokens"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

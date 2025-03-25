@@ -1,0 +1,17 @@
+{
+  "name": "GITHUB_AUTH_USER_DOCKER_CONFLICT_PACKAGES_LIST",
+  "app": "github",
+  "tags": [
+    "packages"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

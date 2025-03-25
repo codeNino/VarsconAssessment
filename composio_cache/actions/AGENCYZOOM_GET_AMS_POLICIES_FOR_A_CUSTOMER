@@ -1,0 +1,17 @@
+{
+  "name": "AGENCYZOOM_GET_AMS_POLICIES_FOR_A_CUSTOMER",
+  "app": "agencyzoom",
+  "tags": [
+    "Customer Management"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

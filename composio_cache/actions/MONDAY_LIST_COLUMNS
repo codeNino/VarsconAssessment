@@ -1,0 +1,19 @@
+{
+  "name": "MONDAY_LIST_COLUMNS",
+  "app": "monday",
+  "tags": [
+    "column",
+    "read",
+    "list"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

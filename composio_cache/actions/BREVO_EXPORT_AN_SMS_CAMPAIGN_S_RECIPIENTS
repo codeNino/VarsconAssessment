@@ -1,0 +1,17 @@
+{
+  "name": "BREVO_EXPORT_AN_SMS_CAMPAIGN_S_RECIPIENTS",
+  "app": "brevo",
+  "tags": [
+    "SMS Campaigns"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

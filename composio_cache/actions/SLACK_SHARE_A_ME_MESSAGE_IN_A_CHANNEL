@@ -1,0 +1,17 @@
+{
+  "name": "SLACK_SHARE_A_ME_MESSAGE_IN_A_CHANNEL",
+  "app": "slack",
+  "tags": [
+    "chat"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

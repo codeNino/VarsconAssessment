@@ -1,0 +1,17 @@
+{
+  "name": "PIPEDRIVE_GET_ALL_USERS_IN_A_TEAM",
+  "app": "pipedrive",
+  "tags": [
+    "LegacyTeams"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

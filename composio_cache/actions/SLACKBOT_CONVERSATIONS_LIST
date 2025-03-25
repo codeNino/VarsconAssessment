@@ -1,0 +1,15 @@
+{
+  "name": "SLACKBOT_CONVERSATIONS_LIST",
+  "app": "slackbot",
+  "tags": [],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": "SLACKBOT_LIST_ALL_SLACK_TEAM_CHANNELS_WITH_VARIOUS_FILTERS",
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

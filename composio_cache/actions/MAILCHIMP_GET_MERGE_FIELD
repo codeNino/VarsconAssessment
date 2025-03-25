@@ -1,0 +1,17 @@
+{
+  "name": "MAILCHIMP_GET_MERGE_FIELD",
+  "app": "mailchimp",
+  "tags": [
+    "lists"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

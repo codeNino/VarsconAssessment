@@ -1,0 +1,10 @@
+services:
+  app:
+    build: .
+    container_name: varscon-assessment
+    environment:
+      - COMPOSIO_CACHE_DIR=/app/.composio_cache
+    volumes:
+      - ./composio_cache:/app/.composio_cache
+    ports:
+      - "8000:8000"

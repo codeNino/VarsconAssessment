@@ -1,0 +1,17 @@
+{
+  "name": "SUPABASE_BETA_SET_UP_A_READ_REPLICA",
+  "app": "supabase",
+  "tags": [
+    "Database"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "BAMBOOHR_GETS_TABLE_ROWS_FOR_A_GIVEN_EMPLOYEE_AND_TABLE_COMBINATION",
+  "app": "bamboohr",
+  "tags": [
+    "Tabular Data"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

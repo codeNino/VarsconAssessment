@@ -1,0 +1,15 @@
+{
+  "name": "TRELLO_MEMBER_GET_BOARDS_BY_ID_MEMBER",
+  "app": "trello",
+  "tags": [],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": "TRELLO_GET_MEMBERS_BOARDS_BY_ID_MEMBER",
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

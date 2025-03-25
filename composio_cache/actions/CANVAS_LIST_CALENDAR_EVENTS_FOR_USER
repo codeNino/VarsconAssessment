@@ -1,0 +1,17 @@
+{
+  "name": "CANVAS_LIST_CALENDAR_EVENTS_FOR_USER",
+  "app": "canvas",
+  "tags": [
+    "Calendar"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

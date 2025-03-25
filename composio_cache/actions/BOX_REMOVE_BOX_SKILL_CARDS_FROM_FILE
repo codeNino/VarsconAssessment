@@ -1,0 +1,17 @@
+{
+  "name": "BOX_REMOVE_BOX_SKILL_CARDS_FROM_FILE",
+  "app": "box",
+  "tags": [
+    "Skills"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

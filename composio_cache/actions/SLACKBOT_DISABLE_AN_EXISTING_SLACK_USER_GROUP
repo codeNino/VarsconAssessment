@@ -1,0 +1,17 @@
+{
+  "name": "SLACKBOT_DISABLE_AN_EXISTING_SLACK_USER_GROUP",
+  "app": "slackbot",
+  "tags": [
+    "usergroups"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

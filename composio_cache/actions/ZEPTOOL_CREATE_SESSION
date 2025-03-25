@@ -1,0 +1,18 @@
+{
+  "name": "ZEPTOOL_CREATE_SESSION",
+  "app": "zeptool",
+  "tags": [
+    "memory",
+    "history"
+  ],
+  "no_auth": true,
+  "is_local": true,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

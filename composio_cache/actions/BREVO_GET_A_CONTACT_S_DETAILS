@@ -1,0 +1,18 @@
+{
+  "name": "BREVO_GET_A_CONTACT_S_DETAILS",
+  "app": "brevo",
+  "tags": [
+    "Contacts",
+    "important"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}

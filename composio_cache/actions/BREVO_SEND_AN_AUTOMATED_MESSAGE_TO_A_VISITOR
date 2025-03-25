@@ -1,0 +1,17 @@
+{
+  "name": "BREVO_SEND_AN_AUTOMATED_MESSAGE_TO_A_VISITOR",
+  "app": "brevo",
+  "tags": [
+    "Conversations"
+  ],
+  "no_auth": false,
+  "is_local": false,
+  "is_runtime": false,
+  "shell": false,
+  "replaced_by": null,
+  "version": "latest:base",
+  "available_version": [
+    "latest",
+    "latest:base"
+  ]
+}
